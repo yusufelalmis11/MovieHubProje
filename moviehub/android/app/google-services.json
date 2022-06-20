@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487822451442",
+    "project_id": "moivehub-12ae1",
+    "storage_bucket": "moivehub-12ae1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487822451442:android:6660b6bdfcf5ed9bb8266b",
+        "android_client_info": {
+          "package_name": "com.example.moviehub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487822451442-0huoi4pqgagf8frm13vmusng6momdfb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClJVA7a9Rl0zLiVmaNhzo8Jrmd0Pysf7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487822451442-0huoi4pqgagf8frm13vmusng6momdfb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

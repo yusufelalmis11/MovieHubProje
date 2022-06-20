@@ -1,0 +1,60 @@
+Container(
+                      child: Column(children: [
+                        Padding(
+                          padding: const EdgeInsets.only(top: 20, left: 15),
+                          child: ClipRRect(
+                            borderRadius: BorderRadius.circular(20),
+                            child: Image.asset(
+                              "assets/jhonwicklogo.jpg",
+                              width: 180,
+                            ),
+                          ),
+                        ),
+                        SizedBox(
+                          height: 5,
+                        ),
+                        Row(
+                          mainAxisAlignment: MainAxisAlignment.start,
+                          children: [
+                            Text(
+                              "john Wick: 3",
+                              style:
+                                  TextStyle(color: Colors.white, fontSize: 16),
+                            ),
+                          ],
+                        ),
+                      ]),
+                    ),
+
+
+                    Container(
+                      child: Column(children: [
+                        Padding(
+                          padding: const EdgeInsets.only(
+                              top: 20, left: 15, right: 15),
+                          child: ClipRRect(
+                            borderRadius: BorderRadius.circular(20),
+                            child: Image.asset(
+                              "assets/faultoflogo.jpg",
+                              width: 180,
+                            ),
+                          ),
+                        ),
+                        SizedBox(
+                          height: 5,
+                        ),
+                        Row(
+                          mainAxisAlignment: MainAxisAlignment.center,
+                          children: [
+                            Padding(
+                              padding: const EdgeInsets.only(left: 20),
+                              child: Text(
+                                "Aynı Yıldızın Altında",
+                                style: TextStyle(
+                                    color: Colors.white, fontSize: 16),
+                              ),
+                            ),
+                          ],
+                        ),
+                      ]),
+                    ),
